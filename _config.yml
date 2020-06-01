@@ -21,7 +21,7 @@ plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-t
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 title:		           'El Principio de Acción Mínima'
-description:	       'Física, electrónica, arte, literatura y fotografia'
+description:	       'Física, electrónica, arte, literatura y fotografía'
 author:              'Sebastiani Aguirre'
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
