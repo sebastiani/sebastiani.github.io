@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Mecánica Clásica from Scratch
+image: DSC0319.jpg
 ---
 Como proyectito de verano, he decidido hacer como un "prontuario" donde uno mismo se enseña mecánica clásica desde cero. Quizás algunos piensen que me quedé estancado en el siglo XVII, que porque haria tal cosa cuando lo mas cool es fisica de particulas y cuántica y whateveL. Bueno, creo que estoy de acuerdo con lo que dicen José y Saletan en su libro de que la mecánica clásica se subestima bastante, siendo vista solo como un paso intermediario entre no saber un carajo y hacer research QFT o algo así. No hay que leer este libro para darse cuenta de esto, sin embargo, solo basta con mirar las tendencias en los papers que se publican o en los articulos que ~~visibilizan~~ sensacionalizan la física(que todos siempre se tratan de la misma mierda: time travelling, black holes, quantum computing y otras huevadas que en realidad son mas útiles para escritores que trabajan con ficción que para un público que quiere ser mas literado en las ciencas). 
 
