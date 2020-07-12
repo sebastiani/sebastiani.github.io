@@ -97,7 +97,7 @@ La Primera Ley de Newton, of la Ley de Inercia, es una consecuencia de todo lo q
 
 Es decir, que el sistema no exprimenta ninguna acceleración. Pues veamos como explicamos eso con el Principio de Relatividad.
 
-Supongamos que tenemos una particula cuya trayectoria en un sistema de coordenadas inercial es $$\pmb{x} : I \rightarrow \mathbb{R}^{3}$$. Entonces, por segunda ley de Newton, tenemos una función $$F_{i} : \mathbb{R}^{3} \times \mathbb{R}^{3} \times \mathbb{R}$$ tal que:  
+Supongamos que tenemos una particula cuya trayectoria en un sistema de coordenadas inercial es $$\pmb{x} : I \rightarrow \mathbb{R}^{3}$$. Entonces, por segunda ley de Newton, tenemos una función $$F : \mathbb{R}^{3} \times \mathbb{R}^{3} \times \mathbb{R}$$ tal que:  
 $$\ddot{\pmb{x}}(t) = F(\pmb{\pmb{x}, \dot{\pmb{x}}}, t)$$ 
 Sin embargo, por invarianza al tiempo, tenemos:  
 $$\ddot{\pmb{x}}(t) = F(\pmb{\pmb{x}, \dot{\pmb{x}}})$$ 
