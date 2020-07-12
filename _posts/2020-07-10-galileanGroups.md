@@ -92,7 +92,7 @@ Lo cual implica que el espacio es isotrópico, no importa la dirección en la qu
 
 ## "Derivación" de la Primera Ley de Newton
 
-La Primera Ley de Newton, of la Ley de Inercia, es una consecuencia de todo lo que hemos visto. Repasemos que es lo que dice:
+La Primera Ley de Newton, o la Ley de Inercia, es una consecuencia de todo lo que hemos visto. Repasemos que es lo que dice:
 >En ausencia de fuerzas, una particula viaja en movimiento uniforme rectilíneo en un sistema de coordenadas inercial
 
 Es decir, que el sistema no exprimenta ninguna acceleración. Pues veamos como explicamos eso con el Principio de Relatividad.
